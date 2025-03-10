@@ -21,6 +21,8 @@ Collection of papers about management science with LLMs.
 | 1 | **Generative AI for Economic Research: Use Cases and Implications for Economists** | **Journal of Economic Literature（ABS 4）** | <a href="https://www.dropbox.com/scl/fi/kk6duothtufsa8dhs3yat/LLMs_final.pdf?rlkey=bfadp97ej13ruceggecfeeiyi&dl=0">Link</a> | LLM如何应用于经济学研究 |
 | 2 | ChatGPT for (Finance) research: The Bananarama Conjecture | Financial Research Letters（ABS 2） | <a href="https://www.sciencedirect.com/science/article/pii/S1544612323000363">Link</a> |  |
 
+---
+
 ## 预印本文章
 
 ### 综述文章

@@ -71,12 +71,6 @@ Collection of papers about management science with LLMs.
 | 16 | Self-Discover: Large Language Models Self-Compose Reasoning Structures | avXiv | 南加州大学、谷歌DeepMind | <a href="https://arxiv.org/abs/2402.03620">Link</a> | **让大模型针对不同问题，提出特定的推理结构（<a href="https://mp.weixin.qq.com/s/HUW8MX2GhsdE3qFBvb1-Hg">中文解读</a>）** |
 | 17 | The Impact of Reasoning Step Length on Large Language Models | arXiv |  | <a href="https://arxiv.org/abs/2401.04925">Link</a> | 推理步骤对大模型能力的影响（<a href="https://mp.weixin.qq.com/s/UgglOk-u6Qv3IrY6aWcarQ">中文解读</a>） |
 
-## 大模型与表格数据
-|序号|题目|期刊|机构|网址|简介|
-|-|-|-|-|-|-|
-| 1 | Table-GPT: Table-tuned GPT for Diverse Table Tasks | arXiv | 微软 | <a href="https://arxiv.org/abs/2310.09263">Link</a> |  |
-| 2 | Trompt: Towards a Better Deep Neural Network for Tabular Data | arXiv | 国立成功大学 | <a href="http://arxiv.org/abs/2305.18446">Link</a> |  |
-
 ## AI Agents
 |序号|题目|期刊|机构|网址|简介|
 |-|-|-|-|-|-|
@@ -100,9 +94,6 @@ Collection of papers about management science with LLMs.
 ## Other
 |序号|题目|期刊|机构|网址|简介|
 |-|-|-|-|-|-|
-| 1 | GPT-Fathom: Benchmarking Large Language Models to Decipher the Evolutionary Path towards GPT-4 and Beyond | avXiv |  | <a href="https://arxiv.org/abs/2309.16583">Link</a> | OpenAI进化之路与大模型能力来源探析（<a href="https://mp.weixin.qq.com/s/-AWkDzAzoyQNmgYXuC6B4w">中文解读</a>） |
-| 2 | Can large language models provide useful feedback on research papers? A large-scale empirical analysis | avXiv | 斯坦福 | <a href="https://arxiv.org/abs/2310.01783">Link</a> | 大模型与审稿（<a href="https://mp.weixin.qq.com/s/9-F6cC9nB5kPO9rBBVmBuw">中文解读</a>） |
-| 3 | When ChatGPT is gone: Creativity reverts and homogeneity persists | avXiv | 北京大学 | <a href="https://arxiv.org/abs/2401.06816">Link</a> | 大模型对长期创新能力的抑制（<a href="https://mp.weixin.qq.com/s/uQAubTdgaPmhbQbC6dhMUg">中文解读</a>） |
-| 4 | Resolving the Imbalance Issue in Hierarchical Disciplinary Topic Inference via LLM-based Data Augmentation | avXiv |  | <a href="https://arxiv.org/abs/2310.05318">Link</a> | 样本不均衡问题（<a href="https://mp.weixin.qq.com/s/1Y9gPKl2iFLBAUQ3lsjXHQ">中文解读</a>） |
-| 5 | Segmented Harmonic Loss: Handling Class-Imbalanced Multi-Label Clinical Data for Medical Coding with Large Language Models | avXiv |  | <a href="https://arxiv.org/abs/2310.04595">Link</a> | 样本不均衡问题（<a href="https://mp.weixin.qq.com/s/1Y9gPKl2iFLBAUQ3lsjXHQ">中文解读</a>） |
-| 6 | When Advanced AI Isn't Enough: Human Factors as Drivers of Success in Generative AI-Human Collaborations | SSRN |  | <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4738829">Link</a> | ChatGPT时代的人机交互对绩效的影响研究（<a href="https://mp.weixin.qq.com/s/j_k-_DQqs-nDCS8XRJMQ5Q">中文简介</a>） |
+| 1 | Can large language models provide useful feedback on research papers? A large-scale empirical analysis | avXiv | 斯坦福 | <a href="https://arxiv.org/abs/2310.01783">Link</a> | 大模型与审稿（<a href="https://mp.weixin.qq.com/s/9-F6cC9nB5kPO9rBBVmBuw">中文解读</a>） |
+| 2 | When ChatGPT is gone: Creativity reverts and homogeneity persists | avXiv | 北京大学 | <a href="https://arxiv.org/abs/2401.06816">Link</a> | 大模型对长期创新能力的抑制（<a href="https://mp.weixin.qq.com/s/uQAubTdgaPmhbQbC6dhMUg">中文解读</a>） |
+| 3 | When Advanced AI Isn't Enough: Human Factors as Drivers of Success in Generative AI-Human Collaborations | SSRN |  | <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4738829">Link</a> | ChatGPT时代的人机交互对绩效的影响研究（<a href="https://mp.weixin.qq.com/s/j_k-_DQqs-nDCS8XRJMQ5Q">中文简介</a>） |

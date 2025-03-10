@@ -65,11 +65,8 @@ Collection of papers about management science with LLMs.
 | 10 | **Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes** | avXiv |  | <a href="https://arxiv.org/abs/2305.02301">Link</a> | 服了，怎么跟我这个RAL这么类似 |
 | 11 | **Self-explaining AI as an alternative to interpretable AI** | avXiv |  | <a href="https://arxiv.org/abs/2002.05149">Link</a> | 自我解释 |
 | 12 | **Beyond Classification: Financial Reasoning in State-of-the-Art Language Models** | avXiv |  | <a href="https://arxiv.org/abs/2305.01505">Link</a> | 金融推理问题数据集构建 |
-| 13 | Cumulative Reasoning with Large Language Models | avXiv |  | <a href="http://arxiv.org/abs/2308.04371">Link</a> | 姚期智首篇LLM |
-| 14 | **Learning From Mistakes Makes LLM Better Reasoner** | avXiv |  | <a href="https://arxiv.org/abs/2310.20689">Link</a> | 让大模型在错题中学习 |
-| 15 | Specializing Smaller Language Models towards Multi-Step Reasoning | avXiv |  | <a href="http://arxiv.org/abs/2301.12726">Link</a> |  |
-| 16 | Self-Discover: Large Language Models Self-Compose Reasoning Structures | avXiv | 南加州大学、谷歌DeepMind | <a href="https://arxiv.org/abs/2402.03620">Link</a> | **让大模型针对不同问题，提出特定的推理结构（<a href="https://mp.weixin.qq.com/s/HUW8MX2GhsdE3qFBvb1-Hg">中文解读</a>）** |
-| 17 | The Impact of Reasoning Step Length on Large Language Models | arXiv |  | <a href="https://arxiv.org/abs/2401.04925">Link</a> | 推理步骤对大模型能力的影响（<a href="https://mp.weixin.qq.com/s/UgglOk-u6Qv3IrY6aWcarQ">中文解读</a>） |
+| 13 | **Learning From Mistakes Makes LLM Better Reasoner** | avXiv |  | <a href="https://arxiv.org/abs/2310.20689">Link</a> | 让大模型在错题中学习 |
+| 14 | Self-Discover: Large Language Models Self-Compose Reasoning Structures | avXiv | 南加州大学、谷歌DeepMind | <a href="https://arxiv.org/abs/2402.03620">Link</a> | **让大模型针对不同问题，提出特定的推理结构（<a href="https://mp.weixin.qq.com/s/HUW8MX2GhsdE3qFBvb1-Hg">中文解读</a>）** |
 
 ## AI Agents
 |序号|题目|期刊|机构|网址|简介|

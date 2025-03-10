@@ -1,7 +1,7 @@
 # Awesome-Large-Language-Model-Research-in-Management-Science
 Collection of papers about management science with LLMs.
 
-## 发表在顶刊or会计、金融领域期刊上的
+## ABS 3以上期刊文章
 |序号|题目|期刊|网址|简介|
 |-|-|-|-|-|
 | 1 | **FinBERT: A Large Language Model for Extracting Information from Financial Text** | **Contemporary Accounting Research（ABS 4）** | <a href="https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.12832">Link</a> | 英文语料库上预训练的BERT |

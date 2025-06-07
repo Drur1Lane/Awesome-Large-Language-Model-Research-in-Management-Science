@@ -1,5 +1,5 @@
 # Awesome-Large-Language-Model-Research-in-Management-Science
-Collection of papers about management science with LLMs.
+Collection of papers about **management science with LLMs**.
 
 ## ABS 3以上期刊文章
 
@@ -22,6 +22,11 @@ Collection of papers about management science with LLMs.
 | 2 | ChatGPT for (Finance) research: The Bananarama Conjecture | Financial Research Letters（ABS 2） | <a href="https://www.sciencedirect.com/science/article/pii/S1544612323000363">Link</a> |  |
 
 ![我是一道分界线](https://github.com/Drur1Lane/Awesome-Large-Language-Model-Research-in-Management-Science/blob/main/Boundary.png)
+
+# Awesome-Large-Language-Model-Research-in-Management-Science
+Collection of papers about **会计欺诈（Accounting Fraud）、财务欺诈（Financial Fraud）、财务报告不端（Financial Misreporting）、财务报告欺诈（Financial Statement Fraud）（Financial Reporting Fraud）、公司欺诈（Corporate Fraud）（Corporate Misconduct）、不端（Misconduct）、欺诈（Fraud）、虚假陈述（Misstatements）**.
+
+
 
 ## 预印本文章
 

@@ -14,16 +14,17 @@ Collection of **published** and **some preprint** papers about **management scie
 |Date|Title|Journal|DOI|
 |:---:|:---:|:---:|:---:|
 | 2025&#8209;04 | Unleashing the power of text for credit default prediction: Comparing human-written and generative AI-refined texts | European Journal of Operational Research | [Link](https://doi.org/10.1016/j.ejor.2025.04.032) |
-| 2024&#8209;04 | The Bullwhip Effect in Servitized Manufacturers | ***Management Science*** | [Link](https://doi.org/10.1287/mnsc.2023.01026) |
+| 2024&#8209;04 | The bullwhip effect in servitized manufacturers | ***Management Science*** | [Link](https://doi.org/10.1287/mnsc.2023.01026) |
 
 ### As A Variable
 |Date|Title|Journal|DOI|
 |:---:|:---:|:---:|:---:|
-| 2025&#8209;02 | The Impact of Generative AI on Information Processing: Evidence from the Ban of ChatGPT in Italy | ***Journal of Accounting and Economics*** | [Link](https://doi.org/10.1016/j.jacceco.2025.101782) |
+| 2025&#8209;02 | The impact of generative AI on information processing: Evidence from the ban of ChatGPT in Italy | ***Journal of Accounting and Economics*** | [Link](https://doi.org/10.1016/j.jacceco.2025.101782) |
 
 ### Instructive
 |Date|Title|Journal|DOI|
 |:---:|:---:|:---:|:---:|
+| 2025&#8209;01 | ChatGPT for textual analysis? How to use generative LLMs in accounting research | ***Management Science*** | [Link](https://doi.org/10.1287/mnsc.2023.03253) |
 | 2023&#8209;12 | Generative AI for Economic Research: Use Cases and Implications for Economists | Journal of Economic Literature | [Link](https://doi.org/10.1257/jel.20231736) |
 
 ![我是一道分界线](https://github.com/Drur1Lane/Awesome-Large-Language-Model-Research-in-Management-Science/blob/main/Boundary.png)

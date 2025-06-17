@@ -1,6 +1,8 @@
 # 🧠 Awesome Large Language Model Research in Management Science
 
-![Logo](https://github.com/Drur1Lane/Awesome-Large-Language-Model-Research-in-Management-Science/blob/main/Logo.png)
+<p align="center">
+  <img src="https://github.com/Drur1Lane/Awesome-Large-Language-Model-Research-in-Management-Science/blob/main/Logo.png?raw=true" width="600"/>
+</p>
 
 🌟 Welcome to **Awesome-Large-Language-Model-Research-in-Management-Science** – a curated collection of cutting-edge **academic papers** at the intersection of **large/small language models (LLMs/SLMs)** and **management science**. This repository brings together a growing body of **published** and **preprint** research from top-tier journals (including **ABS AJG 3+**, **UTD 24**, and **FT 50** outlets) to help scholars, practitioners, and students explore how generative AI is transforming the way we understand, analyze, and manage organizations.
 

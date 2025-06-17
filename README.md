@@ -6,22 +6,22 @@ Collection of **published** and **some preprint** papers about **management scie
 ### Construction
 |Date|Title|Journal|DOI|
 |:---:|:---:|:---:|:---:|
-|2022-09|FinBERT: A Large Language Model for Extracting Information from Financial Text|Contemporary Accounting Research|[Link](https://doi.org/10.1111/1911-3846.12832)|
+|2022‑09|FinBERT: A Large Language Model for Extracting Information from Financial Text|Contemporary Accounting Research|[Link](https://doi.org/10.1111/1911-3846.12832)|
 
 ### Application
 |Date|Title|Journal|DOI|
 |:---:|:---:|:---:|:---:|
-| 2023-12 | Generative AI for Economic Research: Use Cases and Implications for Economists | Journal of Economic Literature | [Link](https://doi.org/10.1257/jel.20231736) |
+| 2023‑12 | Generative AI for Economic Research: Use Cases and Implications for Economists | Journal of Economic Literature | [Link](https://doi.org/10.1257/jel.20231736) |
 
 ### As A Variable
 |Date|Title|Journal|DOI|
 |:---:|:---:|:---:|:---:|
-| 2023-12 | Generative AI for Economic Research: Use Cases and Implications for Economists | Journal of Economic Literature | [Link](https://doi.org/10.1257/jel.20231736) |
+| 2023‑12 | Generative AI for Economic Research: Use Cases and Implications for Economists | Journal of Economic Literature | [Link](https://doi.org/10.1257/jel.20231736) |
 
 ### Instructive
 |Date|Title|Journal|DOI|
 |:---:|:---:|:---:|:---:|
-| 2023-12 | Generative AI for Economic Research: Use Cases and Implications for Economists | Journal of Economic Literature | [Link](https://doi.org/10.1257/jel.20231736) |
+| 2023‑12 | Generative AI for Economic Research: Use Cases and Implications for Economists | Journal of Economic Literature | [Link](https://doi.org/10.1257/jel.20231736) |
 
 ![我是一道分界线](https://github.com/Drur1Lane/Awesome-Large-Language-Model-Research-in-Management-Science/blob/main/Boundary.png)
 

@@ -34,7 +34,7 @@ Titles and Journals of **UTD 24** papers are in bold, Journals only for **FT 50*
 
 ### Some Preprints
 |Date|Title|DOI|
-|:---:|:---|:---|:---|
+|:---:|:---|:---|
 | 2025&#8209;03 | From transcripts to insights: Uncovering corporate risks using generative AI | [Link](https://doi.org/10.48550/arXiv.2310.17721) |
 | 2025&#8209;03 | Bloated Disclosures: Can ChatGPT Help Investors Process Information? | [Link](https://doi.org/10.48550/arXiv.2306.10224) |
 | 2024&#8209;11 | Financial Statement Analysis with Large Language Models | [Link](https://doi.org/10.48550/arXiv.2407.17866) |

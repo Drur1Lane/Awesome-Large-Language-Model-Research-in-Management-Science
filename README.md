@@ -8,8 +8,6 @@
 * 📚 Categorized by **purpose**: Construction, Application, Variable Use, Instructive/Review
 * 🏆 Prioritizes papers from **top journals** in economics, accounting, operations, and management
 
-Please feel free to submit a pull request with new papers, especially if they meet top-tier journal criteria or have a strong community impact.
-
 ## Construction
 |Date|Title|Journal|DOI|
 |:---:|:---|:---|:---|

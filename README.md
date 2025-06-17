@@ -1,12 +1,12 @@
 # Awesome-Large-Language-Model-Research-in-Management-Science
-Collection of **published** papers about **management science + large/small language models (LLMs/SLMs)**.
+Collection of **published** and **some preprint** papers about **management science + large/small language models (LLMs/SLMs)**.
 
 ## Papers on ABS (AJG) 3-4 Journals
 
 ### LLMs构建
-|序号|题目|期刊|网址|
-|-|-|-|-|
-| 1 | **FinBERT: A Large Language Model for Extracting Information from Financial Text** | **Contemporary Accounting Research** | [Link](https://onlinelibrary.wiley.com/doi/10.1111/1911-3846.12832) |
+|Date|Title|Journal|DOI|Brief|
+|:---:|:---:|:---:|:---:|:---:|
+| 2022-09 | FinBERT: A Large Language Model for Extracting Information from Financial Text | *Contemporary Accounting Research* | [Link](https://doi.org/10.1111/1911-3846.12832) | Good |
 
 ### 具体应用
 

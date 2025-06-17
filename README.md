@@ -4,15 +4,11 @@
   <img src="https://github.com/Drur1Lane/Awesome-Large-Language-Model-Research-in-Management-Science/blob/main/Logo.png?raw=true" width="250"/>
 </p>
 
-🌟 A curated collection of papers at the intersection of **large/small language models (LLMs/SLMs)** and **management science**.
-
-🌟 Containing **published** and **preprint** research from top-tier journals (**ABS AJG 3+**) to help scholars, practitioners, and students explore generative AI.
-
 ## 🔍 Highlights
-
+* 🌟 A curated collection of papers at the intersection of **large/small language models (LLMs/SLMs)** and **management science**
 * ✅ Includes only **peer-reviewed** and **notable preprint** work
 * 📚 Categorized by **purpose**: Construction, Application, Variable Use, Instructive/Review
-* 🏆 Prioritizes papers from **top journals** in economics, accounting, operations, and management
+* 🏆 Prioritizes papers from **top journals** (**ABS AJG 3+**) in economics, accounting, operations, and management
 
 ## Construction
 |Date|Title|Journal|DOI|

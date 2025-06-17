@@ -22,6 +22,7 @@
 ## 🧪 Application
 |Date|Title|Journal|DOI|
 |:---:|:---|:---|:---|
+| 2025&#8209;05 | Efficient multimodal learning for corporate credit risk prediction with an extended deep belief network | Annals of Operations Research | [Link](https://doi.org/10.1007/s10479-025-06612-w) |
 | 2025&#8209;04 | Unleashing the power of text for credit default prediction: Comparing human-written and generative AI-refined texts | European Journal of Operational Research | [Link](https://doi.org/10.1016/j.ejor.2025.04.032) |
 | 2025&#8209;03 | CEO turnover, sequential disclosure, and stock returns | ***Review of Finance*** | [Link](https://doi.org/10.1093/rof/rfaf015) |
 | 2025&#8209;02 | LLM-infused bi-level semantic enhancement for corporate credit risk prediction | Information Processing & Management | [Link](https://doi.org/10.1016/j.ipm.2025.104091) |

@@ -11,7 +11,7 @@ Collection of **published** and **some preprint** papers about **management scie
 ### Application
 |Date|Title|Journal|DOI|
 |:---:|:---:|:---:|:---:|
-| 2025 &#8209;4 | Unleashing the power of text for credit default prediction: Comparing human-written and generative AI-refined texts | European Journal of Operational Research | [Link](https://doi.org/10.1016/j.ejor.2025.04.032) |
+| 2025&#8209;4 | Unleashing the power of text for credit default prediction: Comparing human-written and generative AI-refined texts | European Journal of Operational Research | [Link](https://doi.org/10.1016/j.ejor.2025.04.032) |
 
 ### As A Variable
 |Date|Title|Journal|DOI|

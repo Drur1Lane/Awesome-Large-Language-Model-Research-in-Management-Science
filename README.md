@@ -21,7 +21,7 @@ Collection of **published** and **some preprint** papers about **management scie
 ### Instructive
 |Date|Title|Journal|DOI|
 |:---:|:---:|:---:|:---:|
-| 2023‑12 | Generative AI for Economic Research: Use Cases and Implications for Economists | Journal of Economic Literature | [Link](https://doi.org/10.1257/jel.20231736) |
+| 2023-12 | Generative AI for Economic Research: Use Cases and Implications for Economists | Journal of Economic Literature | [Link](https://doi.org/10.1257/jel.20231736) |
 
 ![我是一道分界线](https://github.com/Drur1Lane/Awesome-Large-Language-Model-Research-in-Management-Science/blob/main/Boundary.png)
 

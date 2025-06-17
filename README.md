@@ -7,6 +7,7 @@ Collection of **published** and **some preprint** papers about **management scie
 |Date|Title|Journal|DOI|
 |:---:|:---:|:---:|:---:|
 | 2025&#8209;04 | The news in earnings announcement disclosures: Capturing word context using LLM methods | ***Management Science*** | [Link](https://doi.org/10.1287/mnsc.2024.05417) |
+| 2024&#8209;08 | 大语言模型、文本情绪与金融市场 | ***管理世界*** | [Link](https://doi.org/10.19744/j.cnki.11-1235/f.2024.0090) |
 | 2022&#8209;09 | FinBERT: A large language model for extracting information from financial text | Contemporary Accounting Research | [Link](https://doi.org/10.1111/1911-3846.12832) |
 
 ### Application

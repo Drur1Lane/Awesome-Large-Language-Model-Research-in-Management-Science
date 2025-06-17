@@ -1,7 +1,7 @@
 # Awesome-Large-Language-Model-Research-in-Management-Science
 Collection of **published** and **some preprint** papers about **management science + large/small language models (LLMs/SLMs)**.
 
-## Papers on ABS (AJG) 3-4 Journals
+## Papers on ABS (AJG) 3+ Journals
 
 ### Construction
 |Date|Title|Journal|DOI|

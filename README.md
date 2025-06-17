@@ -28,7 +28,7 @@
 | 2025&#8209;02 | LLM-infused bi-level semantic enhancement for corporate credit risk prediction | Information Processing & Management | [Link](https://doi.org/10.1016/j.ipm.2025.104091) |
 | 2024&#8209;04 | **The bullwhip effect in servitized manufacturers** | ***Management Science*** | [Link](https://doi.org/10.1287/mnsc.2023.01026) |
 
-## 📊 As A Variable
+## 📊 As a Variable
 |Date|Title|Journal|DOI|
 |:---:|:---|:---|:---|
 | 2025&#8209;02 | **The impact of generative AI on information processing: Evidence from the ban of ChatGPT in Italy** | ***Journal of Accounting and Economics*** | [Link](https://doi.org/10.1016/j.jacceco.2025.101782) |

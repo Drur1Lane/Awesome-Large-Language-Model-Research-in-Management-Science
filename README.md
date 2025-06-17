@@ -32,9 +32,16 @@ Titles and Journals of **UTD 24** papers are in bold, Journals only for **FT 50*
 | 2025&#8209;01 | **ChatGPT for textual analysis? How to use generative LLMs in accounting research** | ***Management Science*** | [Link](https://doi.org/10.1287/mnsc.2023.03253) |
 | 2023&#8209;12 | Generative AI for Economic Research: Use Cases and Implications for Economists | Journal of Economic Literature | [Link](https://doi.org/10.1257/jel.20231736) |
 
+### Some Preprints
+|Date|Title|DOI|
+|:---:|:---|:---|:---|
+| 2025&#8209;03 | From transcripts to insights: Uncovering corporate risks using generative AI | [Link](https://doi.org/10.48550/arXiv.2310.17721) |
+| 2025&#8209;03 | Bloated Disclosures: Can ChatGPT Help Investors Process Information? | [Link](https://doi.org/10.48550/arXiv.2306.10224) |
+| 2024&#8209;11 | Financial Statement Analysis with Large Language Models | [Link](https://doi.org/10.48550/arXiv.2407.17866) |
+
 ![我是一道分界线](https://github.com/Drur1Lane/Awesome-Large-Language-Model-Research-in-Management-Science/blob/main/Boundary.png)
 
-## Important / Existing preprint papers
+## Important / Existing preprint papers related more to *Computer Science*
 
 ### Review / Survery
 |序号|题目|期刊|机构|网址|简介|

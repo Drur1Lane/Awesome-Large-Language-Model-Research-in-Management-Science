@@ -6,7 +6,7 @@ Collection of **published** and **some preprint** papers about **management scie
 ### Construction
 |Date|Title|Journal|DOI|
 |:---:|:---:|:---:|:---:|
-| 2022-09 | FinBERT: A Large Language Model for Extracting Information from Financial Text | Contemporary Accounting Research | [Link](https://doi.org/10.1111/1911-3846.12832) |
+|2022-09|FinBERT: A Large Language Model for Extracting Information from Financial Text|Contemporary Accounting Research|[Link](https://doi.org/10.1111/1911-3846.12832)|
 
 ### Application
 |Date|Title|Journal|DOI|

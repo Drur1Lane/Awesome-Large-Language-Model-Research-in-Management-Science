@@ -3,22 +3,25 @@ Collection of **published** and **some preprint** papers about **management scie
 
 ## Papers on ABS (AJG) 3-4 Journals
 
-### LLMs构建
+### Construction
 |Date|Title|Journal|DOI|
 |:---:|:---:|:---:|:---:|
-| 2022-09 | FinBERT: A Large Language Model for Extracting Information from Financial Text | *Contemporary Accounting Research* | [Link](https://doi.org/10.1111/1911-3846.12832) |
+| 2022-09 | FinBERT: A Large Language Model for Extracting Information from Financial Text | Contemporary Accounting Research | [Link](https://doi.org/10.1111/1911-3846.12832) |
 
-### 具体应用
+### Application
+|Date|Title|Journal|DOI|
+|:---:|:---:|:---:|:---:|
+| 2023-12 | Generative AI for Economic Research: Use Cases and Implications for Economists | Journal of Economic Literature | [Link](https://doi.org/10.1257/jel.20231736) |
 
-### 能力评估
-|序号|题目|期刊|网址|简介|
-|-|-|-|-|-|
-| 1 | GPT has become financially literate: Insights from financial literacy tests of GPT and a preliminary test of how people use it as a source of advice | Financial Research Letters（ABS 2） | <a href="https://www.sciencedirect.com/science/article/pii/S1544612323007055">Link</a> |
+### As A Variable
+|Date|Title|Journal|DOI|
+|:---:|:---:|:---:|:---:|
+| 2023-12 | Generative AI for Economic Research: Use Cases and Implications for Economists | Journal of Economic Literature | [Link](https://doi.org/10.1257/jel.20231736) |
 
-### 辅助研究
-|序号|题目|期刊|网址|简介|
-|-|-|-|-|-|
-| 1 | **Generative AI for Economic Research: Use Cases and Implications for Economists** | **Journal of Economic Literature（ABS 4）** | <a href="https://www.dropbox.com/scl/fi/kk6duothtufsa8dhs3yat/LLMs_final.pdf?rlkey=bfadp97ej13ruceggecfeeiyi&dl=0">Link</a> | LLM如何应用于经济学研究 |
+### Instructive
+|Date|Title|Journal|DOI|
+|:---:|:---:|:---:|:---:|
+| 2023-12 | Generative AI for Economic Research: Use Cases and Implications for Economists | Journal of Economic Literature | [Link](https://doi.org/10.1257/jel.20231736) |
 
 ![我是一道分界线](https://github.com/Drur1Lane/Awesome-Large-Language-Model-Research-in-Management-Science/blob/main/Boundary.png)
 

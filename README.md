@@ -2,10 +2,11 @@
 Collection of **published** and **some preprint** papers about **management science + large/small language models (LLMs/SLMs)**.
 
 ## Papers on ABS (AJG) 3+ Journals
+Titles and Journals of **UTD 24** papers are in bold, Journals only for **FT 50** papers.
 
 ### Construction
 |Date|Title|Journal|DOI|
-|:---:|:---:|:---:|:---:|
+|:---:|:---|:---|:---|
 | 2025&#8209;04 | **The news in earnings announcement disclosures: Capturing word context using LLM methods** | ***Management Science*** | [Link](https://doi.org/10.1287/mnsc.2024.05417) |
 | 2025&#8209;02 | **Does finance benefit society? A language embedding approach** | ***The Review of Financial Studies*** | [Link](https://doi.org/10.1093/rfs/hhaf012) |
 | 2024&#8209;08 | **大语言模型、文本情绪与金融市场** | ***管理世界*** | [Link](https://doi.org/10.19744/j.cnki.11-1235/f.2024.0090) |
@@ -13,19 +14,19 @@ Collection of **published** and **some preprint** papers about **management scie
 
 ### Application
 |Date|Title|Journal|DOI|
-|:---:|:---:|:---:|:---:|
+|:---:|:---|:---|:---|
 | 2025&#8209;04 | Unleashing the power of text for credit default prediction: Comparing human-written and generative AI-refined texts | European Journal of Operational Research | [Link](https://doi.org/10.1016/j.ejor.2025.04.032) |
 | 2025&#8209;03 | CEO turnover, sequential disclosure, and stock returns | ***Review of Finance*** | [Link](https://doi.org/10.1093/rof/rfaf015) |
 | 2024&#8209;04 | **The bullwhip effect in servitized manufacturers** | ***Management Science*** | [Link](https://doi.org/10.1287/mnsc.2023.01026) |
 
 ### As A Variable
 |Date|Title|Journal|DOI|
-|:---:|:---:|:---:|:---:|
+|:---:|:---|:---|:---|
 | 2025&#8209;02 | **The impact of generative AI on information processing: Evidence from the ban of ChatGPT in Italy** | ***Journal of Accounting and Economics*** | [Link](https://doi.org/10.1016/j.jacceco.2025.101782) |
 
 ### Review / Survey / Instructive
 |Date|Title|Journal|DOI|
-|:---:|:---:|:---:|:---:|
+|:---:|:---|:---|:---|
 | 2025&#8209;05 | How AI is shaping accounting and finance | The British Accounting Review | [Link](https://doi.org/10.1016/j.bar.2025.101650) |
 | 2025&#8209;04 | The adoption of large language models in economics research | Economics Letters | [Link](https://doi.org/10.1016/j.econlet.2025.112265) |
 | 2025&#8209;01 | **ChatGPT for textual analysis? How to use generative LLMs in accounting research** | ***Management Science*** | [Link](https://doi.org/10.1287/mnsc.2023.03253) |

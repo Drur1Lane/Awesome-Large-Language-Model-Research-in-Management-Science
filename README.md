@@ -1,10 +1,18 @@
-# Awesome-Large-Language-Model-Research-in-Management-Science
-Collection of **published** and **some preprint** papers about **management science + large/small language models (LLMs/SLMs)**.
+# 🧠 Awesome Large Language Model Research in Management Science
 
-## Papers on ABS (AJG) 3+ Journals
-Titles and Journals of **UTD 24** papers are in bold, Journals only for **FT 50** papers.
+Welcome to **Awesome-Large-Language-Model-Research-in-Management-Science** – a curated collection of cutting-edge **academic papers** at the intersection of **large/small language models (LLMs/SLMs)** and **management science**. This repository brings together a growing body of **published** and **preprint** research from top-tier journals (including **ABS AJG 3+**, **UTD 24**, and **FT 50** outlets) to help scholars, practitioners, and students explore how generative AI is transforming the way we understand, analyze, and manage organizations.
 
-### Construction
+🌟 Whether you're building a literature review, designing a research project, or exploring how language models are used for prediction, explanation, or decision support — this list provides a structured and high-quality entry point.
+
+## 🔍 Highlights
+
+* ✅ Includes only **peer-reviewed** and **notable preprint** work
+* 📚 Categorized by **purpose**: Construction, Application, Variable Use, Instructive/Review
+* 🏆 Prioritizes papers from **top journals** in economics, accounting, operations, and management
+
+Please feel free to submit a pull request with new papers, especially if they meet top-tier journal criteria or have a strong community impact.
+
+## Construction
 |Date|Title|Journal|DOI|
 |:---:|:---|:---|:---|
 | 2025&#8209;04 | **The news in earnings announcement disclosures: Capturing word context using LLM methods** | ***Management Science*** | [Link](https://doi.org/10.1287/mnsc.2024.05417) |
@@ -12,19 +20,19 @@ Titles and Journals of **UTD 24** papers are in bold, Journals only for **FT 50*
 | 2024&#8209;08 | **大语言模型、文本情绪与金融市场** | ***管理世界*** | [Link](https://doi.org/10.19744/j.cnki.11-1235/f.2024.0090) |
 | 2022&#8209;09 | FinBERT: A large language model for extracting information from financial text | ***Contemporary Accounting Research*** | [Link](https://doi.org/10.1111/1911-3846.12832) |
 
-### Application
+## Application
 |Date|Title|Journal|DOI|
 |:---:|:---|:---|:---|
 | 2025&#8209;04 | Unleashing the power of text for credit default prediction: Comparing human-written and generative AI-refined texts | European Journal of Operational Research | [Link](https://doi.org/10.1016/j.ejor.2025.04.032) |
 | 2025&#8209;03 | CEO turnover, sequential disclosure, and stock returns | ***Review of Finance*** | [Link](https://doi.org/10.1093/rof/rfaf015) |
 | 2024&#8209;04 | **The bullwhip effect in servitized manufacturers** | ***Management Science*** | [Link](https://doi.org/10.1287/mnsc.2023.01026) |
 
-### As A Variable
+## As A Variable
 |Date|Title|Journal|DOI|
 |:---:|:---|:---|:---|
 | 2025&#8209;02 | **The impact of generative AI on information processing: Evidence from the ban of ChatGPT in Italy** | ***Journal of Accounting and Economics*** | [Link](https://doi.org/10.1016/j.jacceco.2025.101782) |
 
-### Review / Survey / Instructive
+## Review / Survey / Instructive
 |Date|Title|Journal|DOI|
 |:---:|:---|:---|:---|
 | 2025&#8209;05 | How AI is shaping accounting and finance | The British Accounting Review | [Link](https://doi.org/10.1016/j.bar.2025.101650) |
@@ -32,7 +40,7 @@ Titles and Journals of **UTD 24** papers are in bold, Journals only for **FT 50*
 | 2025&#8209;01 | **ChatGPT for textual analysis? How to use generative LLMs in accounting research** | ***Management Science*** | [Link](https://doi.org/10.1287/mnsc.2023.03253) |
 | 2023&#8209;12 | Generative AI for Economic Research: Use Cases and Implications for Economists | Journal of Economic Literature | [Link](https://doi.org/10.1257/jel.20231736) |
 
-### Some Preprints
+## Some Preprints
 |Date|Title|DOI|
 |:---:|:---|:---|
 | 2025&#8209;03 | From transcripts to insights: Uncovering corporate risks using generative AI | [Link](https://doi.org/10.48550/arXiv.2310.17721) |

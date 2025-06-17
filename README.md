@@ -47,7 +47,7 @@
 
 ![我是一道分界线](https://github.com/Drur1Lane/Awesome-Large-Language-Model-Research-in-Management-Science/blob/main/Boundary.png)
 
-## Other Preprints (*Related more to Computer Science*)
+## 📝 Other Preprints (*Related more to Computer Science*)
 
 ### Review / Survery
 |序号|题目|期刊|机构|网址|简介|

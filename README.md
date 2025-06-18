@@ -8,7 +8,7 @@
 * 🌟 A curated collection of papers at the intersection of **large/small language models (LLMs/SLMs)** and **management science**
 * ✅ Includes only **peer-reviewed** and **notable preprint** work
 * 📚 Categorized by **purpose**: Construction, Application, Variable Use, Instructive/Review
-* 🏆 Prioritizes papers from **top journals** (**ABS AJG 3+**) in economics, accounting, operations, and management
+* 🏆 Prioritizes papers from **top journals** (**Nature, Science, PNAS, ABS AJG 3+, FMS T1**) in economics, accounting, operations, and management
 
 ## 🏗️ Construction
 |Date|Title|Journal|DOI|

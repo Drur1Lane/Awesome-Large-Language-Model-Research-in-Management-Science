@@ -17,6 +17,7 @@
 | 2025&#8209;05 | **ORLM: A Customizable Framework in Training Large Models for Automated Optimization Modeling** | ***Operations Research*** | [Link](https://doi.org/10.1287/opre.2024.1233) |
 | 2025&#8209;04 | **The news in earnings announcement disclosures: Capturing word context using LLM methods** | ***Management Science*** | [Link](https://doi.org/10.1287/mnsc.2024.05417) |
 | 2025&#8209;02 | **Does finance benefit society? A language embedding approach** | ***The Review of Financial Studies*** | [Link](https://doi.org/10.1093/rfs/hhaf012) |
+| 2025&#8209;02 | **中国企业数字技术风险暴露对企业价值的影响——来自大语言模型的文本分析证据** | ***经济研究*** | 暂无 |
 | 2025&#8209;02 | LLM-infused bi-level semantic enhancement for corporate credit risk prediction | Information Processing & Management | [Link](https://doi.org/10.1016/j.ipm.2025.104091) |
 | 2024&#8209;08 | **大语言模型、文本情绪与金融市场** | ***管理世界*** | [Link](https://doi.org/10.19744/j.cnki.11-1235/f.2024.0090) |
 | 2022&#8209;09 | FinBERT: A large language model for extracting information from financial text | ***Contemporary Accounting Research*** | [Link](https://doi.org/10.1111/1911-3846.12832) |

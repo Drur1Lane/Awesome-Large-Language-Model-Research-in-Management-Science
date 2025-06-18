@@ -4,7 +4,7 @@
   <img src="https://github.com/Drur1Lane/Awesome-Large-Language-Model-Research-in-Management-Science/blob/main/Logo.png?raw=true" width="250"/>
 </p>
 
-## 🔍 Highlights (📰 2025-06-18: 2️⃣5️⃣papers!)
+## 🔍 Highlights (2025-06-18: 2️⃣5️⃣papers!)
 * 🌟 A curated collection of papers about **large/small language models (LLMs/SLMs)** in **management science**
 * ✅ Includes only **peer-reviewed** and **notable preprint** work
 * 📚 Categorized by **purpose**: Construction, Application, Variable Use, Instructive/Review

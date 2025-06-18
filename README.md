@@ -39,6 +39,7 @@
 | 2025&#8209;05 | How AI is shaping accounting and finance | The British Accounting Review | [Link](https://doi.org/10.1016/j.bar.2025.101650) |
 | 2025&#8209;04 | The adoption of large language models in economics research | Economics Letters | [Link](https://doi.org/10.1016/j.econlet.2025.112265) |
 | 2025&#8209;01 | **ChatGPT for textual analysis? How to use generative LLMs in accounting research** | ***Management Science*** | [Link](https://doi.org/10.1287/mnsc.2023.03253) |
+| 2024&#8209;10 | **Large language model in creative work: The role of collaboration modality and user expertise | ***Management Science*** | [Link](https://doi.org/10.1287/mnsc.2023.03014) |
 | 2023&#8209;12 | Generative AI for Economic Research: Use Cases and Implications for Economists | Journal of Economic Literature | [Link](https://doi.org/10.1257/jel.20231736) |
 
 ## 📝 Some Preprints

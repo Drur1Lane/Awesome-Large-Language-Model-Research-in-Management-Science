@@ -13,6 +13,8 @@
 ## 🏗️ Construction
 |Date|Title|Journal|DOI|
 |:---:|:---|:---|:---|
+| 2025&#8209;05 | **Mitigating Age-Related Bias in Large Language Models: Strategies for Responsible Artificial Intelligence Development** | ***INFORMS Journal on Computing*** | [Link](https://doi.org/10.1287/ijoc.2024.0645) |
+| 2025&#8209;05 | **ORLM: A Customizable Framework in Training Large Models for Automated Optimization Modeling** | ***Operations Research*** | [Link](https://doi.org/10.1287/opre.2024.1233) |
 | 2025&#8209;04 | **The news in earnings announcement disclosures: Capturing word context using LLM methods** | ***Management Science*** | [Link](https://doi.org/10.1287/mnsc.2024.05417) |
 | 2025&#8209;02 | **Does finance benefit society? A language embedding approach** | ***The Review of Financial Studies*** | [Link](https://doi.org/10.1093/rfs/hhaf012) |
 | 2025&#8209;02 | LLM-infused bi-level semantic enhancement for corporate credit risk prediction | Information Processing & Management | [Link](https://doi.org/10.1016/j.ipm.2025.104091) |
@@ -26,16 +28,20 @@
 | 2025&#8209;04 | Unleashing the power of text for credit default prediction: Comparing human-written and generative AI-refined texts | European Journal of Operational Research | [Link](https://doi.org/10.1016/j.ejor.2025.04.032) |
 | 2025&#8209;03 | CEO turnover, sequential disclosure, and stock returns | ***Review of Finance*** | [Link](https://doi.org/10.1093/rof/rfaf015) |
 | 2025&#8209;02 | LLM-infused bi-level semantic enhancement for corporate credit risk prediction | Information Processing & Management | [Link](https://doi.org/10.1016/j.ipm.2025.104091) |
+| 2024&#8209;11 | **Generative artificial intelligence and evaluating strategic decisions** | ***Strategic Management Journal*** | [Link](https://doi.org/10.1002/smj.3677) |
 | 2024&#8209;04 | **The bullwhip effect in servitized manufacturers** | ***Management Science*** | [Link](https://doi.org/10.1287/mnsc.2023.01026) |
 
 ## 📊 As a Variable
 |Date|Title|Journal|DOI|
 |:---:|:---|:---|:---|
+| 2025&#8209;02 | **Generative AI at Work** | ***The Quarterly Journal of Economics*** | [Link](https://doi.org/10.1093/qje/qjae044) |
 | 2025&#8209;02 | **The impact of generative AI on information processing: Evidence from the ban of ChatGPT in Italy** | ***Journal of Accounting and Economics*** | [Link](https://doi.org/10.1016/j.jacceco.2025.101782) |
+| 2024&#8209;09 | **The Short-Term Effects of Generative Artificial Intelligence on Employment: Evidence from an Online Labor Market** | ***Organization Science*** | [Link](https://doi.org/10.1287/orsc.2023.18441) |
 
 ## 📕 Review / Survey / Instructive
 |Date|Title|Journal|DOI|
 |:---:|:---|:---|:---|
+| 2025&#8209;05 | **Generative AI and Empirical Research Methods in Operations Management** | ***Journal of Operations Management*** | [Link](https://doi.org/10.1002/joom.1371) |
 | 2025&#8209;05 | How AI is shaping accounting and finance | The British Accounting Review | [Link](https://doi.org/10.1016/j.bar.2025.101650) |
 | 2025&#8209;04 | The adoption of large language models in economics research | Economics Letters | [Link](https://doi.org/10.1016/j.econlet.2025.112265) |
 | 2025&#8209;01 | **ChatGPT for textual analysis? How to use generative LLMs in accounting research** | ***Management Science*** | [Link](https://doi.org/10.1287/mnsc.2023.03253) |

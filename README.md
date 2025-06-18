@@ -28,6 +28,7 @@
 | 2025&#8209;05 | Efficient multimodal learning for corporate credit risk prediction with an extended deep belief network | Annals of Operations Research | [Link](https://doi.org/10.1007/s10479-025-06612-w) |
 | 2025&#8209;04 | Unleashing the power of text for credit default prediction: Comparing human-written and generative AI-refined texts | European Journal of Operational Research | [Link](https://doi.org/10.1016/j.ejor.2025.04.032) |
 | 2025&#8209;03 | CEO turnover, sequential disclosure, and stock returns | ***Review of Finance*** | [Link](https://doi.org/10.1093/rof/rfaf015) |
+| 2025&#8209;02 | **中国企业数字技术风险暴露对企业价值的影响——来自大语言模型的文本分析证据** | ***经济研究*** | 暂无 |
 | 2025&#8209;02 | LLM-infused bi-level semantic enhancement for corporate credit risk prediction | Information Processing & Management | [Link](https://doi.org/10.1016/j.ipm.2025.104091) |
 | 2024&#8209;11 | **Generative artificial intelligence and evaluating strategic decisions** | ***Strategic Management Journal*** | [Link](https://doi.org/10.1002/smj.3677) |
 | 2024&#8209;04 | **The bullwhip effect in servitized manufacturers** | ***Management Science*** | [Link](https://doi.org/10.1287/mnsc.2023.01026) |

@@ -4,10 +4,15 @@
   <img src="https://github.com/Drur1Lane/Awesome-Large-Language-Model-Research-in-Management-Science/blob/main/Logo.png?raw=true" width="250"/>
 </p>
 
-## 🔍 Highlights (2025-06-18: 2️⃣5️⃣papers!)
+## 🔍 Highlights (2025-07-17: 3️⃣1️⃣papers!)
 * 🌟 A curated collection of papers about **large/small language models (LLMs/SLMs)** in **management science**
 * ✅ Includes only **peer-reviewed** and **notable preprint** work
-* 📚 Categorized by **purpose**: Construction, Application, Variable Use, Instructive/Review
+* 📚 Categorized by **purpose**:
+  * Construction
+  * Application
+  * As a Variable/Factor/Proxy
+  * Review / Survey / Instructive
+  * Understanding of LLMs
 * 🏆 Prioritizes papers from **top journals** (**Nature, Science, PNAS, ABS/AJG 3+, FMS T1**)
 
 ## 🏗️ Construction
@@ -23,6 +28,8 @@
 ## 🧪 Application
 |Date|Title|Journal|DOI|
 |:---:|:---|:---|:---|
+| 2025&#8209;06 | **Can generative AI help identify peer firms?** | ***Review of Accounting Studies*** | [Link](https://doi.org/10.1007/s11142-025-09892-6) |
+| 2025&#8209;05 | **LOLA: LLM-Assisted Online Learning Algorithm for Content Experiments** | ***Marketing Science*** | [Link](https://doi.org/10.1287/mksc.2024.0990) |
 | 2025&#8209;05 | Efficient multimodal learning for corporate credit risk prediction with an extended deep belief network | Annals of Operations Research | [Link](https://doi.org/10.1007/s10479-025-06612-w) |
 | 2025&#8209;04 | Unleashing the power of text for credit default prediction: Comparing human-written and generative AI-refined texts | European Journal of Operational Research | [Link](https://doi.org/10.1016/j.ejor.2025.04.032) |
 | 2025&#8209;03 | CEO turnover, sequential disclosure, and stock returns | ***Review of Finance*** | [Link](https://doi.org/10.1093/rof/rfaf015) |
@@ -35,7 +42,7 @@
 | 2025&#8209;02 | **中国企业数字技术风险暴露对企业价值的影响——来自大语言模型的文本分析证据** | ***经济研究*** | 暂无 |
 | 2025&#8209;02 | LLM-infused bi-level semantic enhancement for corporate credit risk prediction | Information Processing & Management | [Link](https://doi.org/10.1016/j.ipm.2025.104091) |
 
-## 📊 As a Variable
+## 📊 As a Variable/Factor/Proxy
 |Date|Title|Journal|DOI|
 |:---:|:---|:---|:---|
 | 2025&#8209;02 | **Generative AI at Work** | ***The Quarterly Journal of Economics*** | [Link](https://doi.org/10.1093/qje/qjae044) |
@@ -46,15 +53,23 @@
 |Date|Title|Journal|DOI|
 |:---:|:---|:---|:---|
 | 2025&#8209;05 | **Generative AI and Empirical Research Methods in Operations Management** | ***Journal of Operations Management*** | [Link](https://doi.org/10.1002/joom.1371) |
+| 2025&#8209;05 | The impact of large language models on accounting and future application scenarios | Journal of Accounting Literature | [Link](https://doi.org/10.1108/JAL-12-2024-0357) |
 | 2025&#8209;05 | How AI is shaping accounting and finance | The British Accounting Review | [Link](https://doi.org/10.1016/j.bar.2025.101650) |
 | 2025&#8209;04 | The adoption of large language models in economics research | Economics Letters | [Link](https://doi.org/10.1016/j.econlet.2025.112265) |
 | 2025&#8209;01 | **ChatGPT for textual analysis? How to use generative LLMs in accounting research** | ***Management Science*** | [Link](https://doi.org/10.1287/mnsc.2023.03253) |
 | 2024&#8209;10 | **Large language model in creative work: The role of collaboration modality and user expertise** | ***Management Science*** | [Link](https://doi.org/10.1287/mnsc.2023.03014) |
 | 2023&#8209;12 | Generative AI for Economic Research: Use Cases and Implications for Economists | Journal of Economic Literature | [Link](https://doi.org/10.1257/jel.20231736) |
 
+## 🤖 Understanding of LLMs
+|Date|Title|Journal|DOI|
+|:---:|:---|:---|:---|
+| 2025&#8209;06 | Comparing the value of perceived human versus AI-generated empathy | ***Nature Human Behaviour*** | [Link](https://doi.org/10.1038/s41562-025-02247-w) |
+| 2025&#8209;05 | On the conversational persuasiveness of GPT-4 | ***Nature Human Behaviour*** | [Link](https://doi.org/10.1038/s41562-025-02194-6) |
+
 ## 📝 Some Preprints
 |Date|Title|DOI|
 |:---:|:---|:---|
+| 2025&#8209;07 | (Generative) AI in Financial Economics | [Link](https://dx.doi.org/10.2139/ssrn.5287110) |
 | 2025&#8209;03 | From transcripts to insights: Uncovering corporate risks using generative AI | [Link](https://doi.org/10.48550/arXiv.2310.17721) |
 | 2025&#8209;03 | Bloated Disclosures: Can ChatGPT Help Investors Process Information? | [Link](https://doi.org/10.48550/arXiv.2306.10224) |
 | 2024&#8209;11 | Financial Statement Analysis with Large Language Models | [Link](https://doi.org/10.48550/arXiv.2407.17866) |
@@ -63,7 +78,7 @@
 
 ## 📝 Other Preprints (*Related more to Computer Science*)
 
-### Review / Survery
+### Review / Survey
 |Date|Title|DOI|Sketch|
 |:---:|:---|:---|:---|
 | 1 | **Large Language Models: A Survey** | <a href="https://github.com/RUCAIBox/LLMSurvey">Link</a> | **LLM综述** |

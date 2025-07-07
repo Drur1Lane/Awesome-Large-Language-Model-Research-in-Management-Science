@@ -4,7 +4,7 @@
   <img src="https://github.com/Drur1Lane/Awesome-Large-Language-Model-Research-in-Management-Science/blob/main/Logo.png?raw=true" width="250"/>
 </p>
 
-## 🔍 Highlights (2025-07-17: 3️⃣1️⃣papers!)
+## 🔍 Highlights (2025-07-07: 3️⃣2️⃣papers!)
 * 🌟 A curated collection of papers about **large/small language models (LLMs/SLMs)** in **management science**
 * ✅ Includes only **peer-reviewed** and **notable preprint** work
 * 📚 Categorized by **purpose**:
@@ -34,6 +34,7 @@
 | 2025&#8209;04 | Unleashing the power of text for credit default prediction: Comparing human-written and generative AI-refined texts | European Journal of Operational Research | [Link](https://doi.org/10.1016/j.ejor.2025.04.032) |
 | 2025&#8209;03 | CEO turnover, sequential disclosure, and stock returns | ***Review of Finance*** | [Link](https://doi.org/10.1093/rof/rfaf015) |
 | 2024&#8209;11 | **Generative artificial intelligence and evaluating strategic decisions** | ***Strategic Management Journal*** | [Link](https://doi.org/10.1002/smj.3677) |
+| 2024&#8209;09 | **大模型驱动的学术文本挖掘——推理端指令策略构建及能力评测** | ***情报学报*** | 暂无 |
 | 2024&#8209;04 | **The bullwhip effect in servitized manufacturers** | ***Management Science*** | [Link](https://doi.org/10.1287/mnsc.2023.01026) |
 
 ## 👯‍♀️ Construction & Application

@@ -4,7 +4,7 @@
   <img src="https://github.com/Drur1Lane/Awesome-Large-Language-Model-Research-in-Management-Science/blob/main/Logo.png?raw=true" width="250"/>
 </p>
 
-## 🔍 Highlights (2025-07-07: 3️⃣2️⃣papers!)
+## 🔍 Highlights (2025-07-07: 3️⃣4️⃣papers!)
 * 🌟 A curated collection of papers about **large/small language models (LLMs/SLMs)** in **management science**
 * ✅ Includes only **peer-reviewed** and **notable preprint** work
 * 📚 Categorized by **purpose**:
@@ -13,6 +13,7 @@
   * As a Variable/Factor/Proxy
   * Review / Survey / Instructive
   * Understanding of LLMs
+  * **Human-AI Collaboration** 🔥🔥🔥
 * 🏆 Prioritizes papers from **top journals** (**Nature, Science, PNAS, ABS/AJG 3+, FMS T1**)
 
 ## 🏗️ Construction
@@ -66,6 +67,12 @@
 |:---:|:---|:---|:---|
 | 2025&#8209;06 | Comparing the value of perceived human versus AI-generated empathy | ***Nature Human Behaviour*** | [Link](https://doi.org/10.1038/s41562-025-02247-w) |
 | 2025&#8209;05 | On the conversational persuasiveness of GPT-4 | ***Nature Human Behaviour*** | [Link](https://doi.org/10.1038/s41562-025-02194-6) |
+
+## 🤝 Human-AI Collaboration
+|Date|Title|Journal|DOI|
+|:---:|:---|:---|:---|
+| 2024&#8209;07 | **From Man vs. Machine to Man + Machine: The art and AI of stock analyses** | ***Journal of Financial Economics*** | [Link](https://doi.org/10.1016/j.jfineco.2024.103910) |
+| 2022&#8209;10 | **Man versus Machine Learning: The Term Structure of Earnings Expectations and Conditional Biases** | ***The Review of Financial Studies*** | [Link](https://doi.org/10.1093/rfs/hhac085) |
 
 ## 📝 Some Preprints
 |Date|Title|DOI|

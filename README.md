@@ -12,7 +12,7 @@
   * Application
   * As a Variable/Factor/Proxy
   * Review / Survey / Instructive
-  * Understanding of LLMs
+  * Understanding capabilities of LLMs
   * **Human-AI Collaboration** 🔥🔥🔥
 * 🏆 Prioritizes papers from **top journals** (**Nature, Science, PNAS, ABS/AJG 3+, FMS T1**)
 
@@ -32,7 +32,7 @@
 | 2025&#8209;06 | **Can generative AI help identify peer firms?** | ***Review of Accounting Studies*** | [Link](https://doi.org/10.1007/s11142-025-09892-6) |
 | 2025&#8209;05 | **LOLA: LLM-Assisted Online Learning Algorithm for Content Experiments** | ***Marketing Science*** | [Link](https://doi.org/10.1287/mksc.2024.0990) |
 | 2025&#8209;05 | Efficient multimodal learning for corporate credit risk prediction with an extended deep belief network | Annals of Operations Research | [Link](https://doi.org/10.1007/s10479-025-06612-w) |
-| 2025&#8209;04 | Unleashing the power of text for credit default prediction: Comparing human-written and generative AI-refined texts | European Journal of Operational Research | [Link](https://doi.org/10.1016/j.ejor.2025.04.032) |
+| 2025&#8209;04 | Unleashing the power of text for credit default prediction: Comparing human-written and generative AI-refined texts | ***European Journal of Operational Research*** | [Link](https://doi.org/10.1016/j.ejor.2025.04.032) |
 | 2025&#8209;03 | CEO turnover, sequential disclosure, and stock returns | ***Review of Finance*** | [Link](https://doi.org/10.1093/rof/rfaf015) |
 | 2024&#8209;11 | **Generative artificial intelligence and evaluating strategic decisions** | ***Strategic Management Journal*** | [Link](https://doi.org/10.1002/smj.3677) |
 | 2024&#8209;09 | **大模型驱动的学术文本挖掘——推理端指令策略构建及能力评测** | ***情报学报*** | 暂无 |
@@ -62,7 +62,7 @@
 | 2024&#8209;10 | **Large language model in creative work: The role of collaboration modality and user expertise** | ***Management Science*** | [Link](https://doi.org/10.1287/mnsc.2023.03014) |
 | 2023&#8209;12 | Generative AI for Economic Research: Use Cases and Implications for Economists | Journal of Economic Literature | [Link](https://doi.org/10.1257/jel.20231736) |
 
-## 🤖 Understanding of LLMs
+## 🤖 Understanding capabilities of LLMs
 |Date|Title|Journal|DOI|
 |:---:|:---|:---|:---|
 | 2025&#8209;06 | Comparing the value of perceived human versus AI-generated empathy | ***Nature Human Behaviour*** | [Link](https://doi.org/10.1038/s41562-025-02247-w) |
@@ -89,11 +89,11 @@
 ### 🥳 Classics Tech Papers
 |Date|Title|DOI|Sketch|
 |:---:|:---|:---|:---|
-| 2023&#8209;05 | **Language Models are Few-Shot Learners** | <a href="https://arxiv.org/abs/2005.14165">Link</a> | **GPT-3** |
+| 2023&#8209;05 | **Language Models are Few-Shot Learners** | <a href="https://arxiv.org/abs/2005.14165">Link</a> | ***GPT-3*** |
 | 2019&#8209;05 | Language Models are Unsupervised Multitask Learners | [Link](https://github.com/openai/gpt-2) | GPT-2 |
-| 2018&#8209;10 | **A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future** | <a href="https://arxiv.org/abs/1810.04805">Link</a> | **BERT** |
+| 2018&#8209;10 | **A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future** | <a href="https://arxiv.org/abs/1810.04805">Link</a> | ***BERT*** |
 | 2018&#8209;06 | Improving Language Understanding by Generative Pre-Training | [Link](https://openai.com/index/language-unsupervised/) | GPT-1 |
-| 2017&#8209;06 | **Attention Is All You Need** | <a href="https://arxiv.org/abs/1706.03762">Link</a> | **Transformer** |
+| 2017&#8209;06 | **Attention Is All You Need** | <a href="https://arxiv.org/abs/1706.03762">Link</a> | ***Transformer*** |
 
 ### 📚 Review / Survey on LLMs
 |Date|Title|DOI|Sketch|

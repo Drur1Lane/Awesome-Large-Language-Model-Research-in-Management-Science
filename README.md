@@ -44,7 +44,7 @@
 | 2025&#8209;02 | **中国企业数字技术风险暴露对企业价值的影响——来自大语言模型的文本分析证据** | ***经济研究*** | 暂无 |
 | 2025&#8209;02 | LLM-infused bi-level semantic enhancement for corporate credit risk prediction | Information Processing & Management | [Link](https://doi.org/10.1016/j.ipm.2025.104091) |
 
-## 📊 As a Variable/Factor/Proxy
+## 📊 As a Variable / Factor / Proxy
 |Date|Title|Journal|DOI|
 |:---:|:---|:---|:---|
 | 2025&#8209;02 | **Generative AI at Work** | ***The Quarterly Journal of Economics*** | [Link](https://doi.org/10.1093/qje/qjae044) |
@@ -84,38 +84,37 @@
 
 ![我是一道分界线](https://github.com/Drur1Lane/Awesome-Large-Language-Model-Research-in-Management-Science/blob/main/Boundary.png)
 
-## 📝 Other Preprints (*Related more to Computer Science*)
+## 📝 Other Preprints (*Related more to Computer Science*) (2025-07-09: 2️⃣1️⃣papers!)
 
-### Review / Survey
+### 🥳 Classics Tech Papers
 |Date|Title|DOI|Sketch|
 |:---:|:---|:---|:---|
-| 1 | **Large Language Models: A Survey** | <a href="https://github.com/RUCAIBox/LLMSurvey">Link</a> | **LLM综述** |
-| 2 | **A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future** | <a href="https://arxiv.org/abs/2309.15402">Link</a> | **思维链综述** |
-| 6 | **Explainability for Large Language Models: A Survey** | <a href="https://arxiv.org/abs/2309.01029">Link</a> | 大模型可解释性综述 |
-| 8 | The Rise and Potential of Large Language Model Based Agents: A Survey | <a href="https://arxiv.org/abs/2309.07864">Link</a> | 大模型Agent综述 |
-| 10 | **A Systematic Survey of Prompt Engineering in Large Language Models: Techniques and Applications** | <a href="https://arxiv.org/abs/2402.07927">Link</a> | Prompt Engineering综述（<a href="https://mp.weixin.qq.com/s/va1Ua3koedNWKkln4v6Vvg">中文推荐</a>） |
+| 2023&#8209;05 | **Language Models are Few-Shot Learners** | <a href="https://arxiv.org/abs/2005.14165">Link</a> | **GPT-3** |
+| 2019&#8209;05 | Language Models are Unsupervised Multitask Learners | [Link](https://github.com/openai/gpt-2) | GPT-2 |
+| 2018&#8209;10 | **A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future** | <a href="https://arxiv.org/abs/1810.04805">Link</a> | **BERT** |
+| 2018&#8209;06 | Improving Language Understanding by Generative Pre-Training | [Link](https://openai.com/index/language-unsupervised/) | GPT-1 |
+| 2017&#8209;06 | **Attention Is All You Need** | <a href="https://arxiv.org/abs/1706.03762">Link</a> | **Transformer** |
 
-### Classics
+### 📚 Review / Survey on LLMs
 |Date|Title|DOI|Sketch|
 |:---:|:---|:---|:---|
-| 1 | **Attention Is All You Need** | <a href="https://arxiv.org/abs/1706.03762">Link</a> | **Transformer** |
-| 2 | Improving Language Understanding by Generative Pre-Training | <a href="https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf">Link</a> | GPT-1 |
-| 3 | **A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future** | <a href="https://arxiv.org/abs/1810.04805">Link</a> | **BERT** |
-| 4 | Language Models are Unsupervised Multitask Learners | <a href="https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf">Link</a> | GPT-2 |
-| 5 | Language Models are Few-Shot Learners | <a href="https://arxiv.org/abs/2005.14165">Link</a> | GPT-3 |
+| 2024&#8209;02 | A Systematic Survey of **Prompt Engineering** in Large Language Models: Techniques and Applications | <a href="https://arxiv.org/abs/2402.07927">Link</a> |  |
+| 2023&#8209;09 | A Survey of **Chain of Thought** Reasoning: Advances, Frontiers and Future | <a href="https://arxiv.org/abs/2309.15402">Link</a> |  |
+| 2023&#8209;09 | The Rise and Potential of Large Language Model Based **Agents**: A Survey | <a href="https://arxiv.org/abs/2309.07864">Link</a> |  |
+| 2023&#8209;09 | **Explainability** for Large Language Models: A Survey | <a href="https://arxiv.org/abs/2309.01029">Link</a> |  |
+| 2023&#8209;03 | **Large Language Models: A Survey** | <a href="https://arxiv.org/abs/2303.18223">Link</a> | ***Classic review about (Almost) everything on LLMs***[Github](https://github.com/RUCAIBox/LLMSurvey) |
 
-### Financial LLMs
-|Date|Title|Institution|DOI|Sketch|
+### 🏗️ Construction of Financial LLMs
+|Date|Title|Institution|DOI|Github or HF|
 |:---:|:---|:---|:---|:---|
-| 1 | FinPT: Financial Risk Prediction with Profile Tuning on Pretrained Foundation Models | 港大 & 达摩院 | <a href="https://arxiv.org/abs/2308.00065">Link</a> | 金融风险大模型FinPT |
-| 2 | BloombergGPT: A Large Language Model for Finance | 彭博社 | <a href="https://arxiv.org/abs/2303.17564">Link</a> | 金融大模型BloombergGPT |
-| 3 | XuanYuan 2.0: A Large Chinese Financial Chat Model with Hundreds of Billions Parameters | 度小满 | <a href="https://arxiv.org/abs/2305.12002">Link</a> | 金融大模型“轩辕” |
-| 5 | Instruct-FinGPT: Financial Sentiment Analysis by Instruction Tuning of General-Purpose Large Language Models | 哥大 | <a href="http://arxiv.org/abs/2306.12659">Link</a> | 金融大模型Instruct-FinGPT |
-| 6 | FinGPT: Open-Source Financial Large Language Models | 哥大 | <a href="https://arxiv.org/abs/2306.06031">Link</a> | 金融大模型FinGPT |
-| 7 | FinGPT: Democratizing Internet-scale Data for Financial Large Language Models | 哥大 | <a href="https://arxiv.org/abs/2307.10485">Link</a> | 金融大模型FinGPT |
-| 8 | FinVis-GPT: A Multimodal Large Language Model for Financial Chart Analysis | 哈工深 | <a href="https://arxiv.org/abs/2308.01430">Link</a> | 金融大模型FinVisGPT（多模态） |
-| 9 | CFGPT: Chinese Financial Assistant with Large Language Model | 同济 & 上海AI实验室 | <a href="https://arxiv.org/abs/2309.10654">Link</a> | 金融大模型CFGPT |
-| 10 | DISC-FinLLM: A Chinese Financial Large Language Model based on Multiple Experts Fine-tuning | 复旦大学 | <a href="https://arxiv.org/abs/2310.15205">Link</a> | 金融资讯大模型DISC-FinLLM |
-| 11 | PIXIU: A Large Language Model, Instruction Data and Evaluation Benchmark for Finance | 武汉大学、中山大学等 | <a href="https://arxiv.org/abs/2306.05443">Link</a> | 金融大模型PIXIU |
-| 12 | Data-Centric Financial Large Language Models | 阿里巴巴、弗吉尼亚大学 | <a href="http://arxiv.org/abs/2310.17784">Link</a> | 金融大模型FLLM |
-| 13 | BBT-Fin: Comprehensive Construction of Chinese Financial Domain Pre-trained Language Model, Corpus and Benchmark | 复旦等 | <a href="http://arxiv.org/abs/2302.09432">Link</a> | 金融大模型Fin-T5 |
+| 2023&#8209;10 | Data-Centric Financial Large Language Models (**FLLM**) | Ant Group, UVA | <a href="http://arxiv.org/abs/2310.17784">Link</a> |  |
+| 2023&#8209;10 | **DISC-FinLLM**: A Chinese Financial Large Language Model based on Multiple Experts Fine-tuning | FDU | <a href="https://arxiv.org/abs/2310.15205">Link</a> |  |
+| 2023&#8209;09 | **CFGPT**: Chinese Financial Assistant with Large Language Model | TJU, Shanghai AI Lab | <a href="https://arxiv.org/abs/2309.10654">Link</a> |  |
+| 2023&#8209;07 | **FinVis-GPT**: A Multimodal Large Language Model for Financial Chart Analysis | HIT (Shenzhen) | <a href="https://arxiv.org/abs/2308.01430">Link</a> |  |
+| 2023&#8209;07 | **FinPT**: Financial Risk Prediction with Profile Tuning on Pretrained Foundation Models | HKU, DAMO Academy of Alibaba Group | <a href="https://arxiv.org/abs/2308.00065">Link</a> |  |
+| 2023&#8209;07 | **FinGPT**: Democratizing Internet-scale Data for Financial Large Language Models | CU, Rice | <a href="https://arxiv.org/abs/2307.10485">Link</a> |  |
+| 2023&#8209;06 | **FinGPT**: Open-Source Financial Large Language Models | CU, NYU | <a href="https://arxiv.org/abs/2306.06031">Link</a> |  |
+| 2023&#8209;06 | **PIXIU**: A Large Language Model, Instruction Data and Evaluation Benchmark for Finance | WHU, SYSU, SWJTU et al. | <a href="https://arxiv.org/abs/2306.05443">Link</a> |  |
+| 2023&#8209;05 | **XuanYuan 2.0**: A Large Chinese Financial Chat Model with Hundreds of Billions Parameters | Du Xiaoman Financial | <a href="https://arxiv.org/abs/2305.12002">Link</a> |  |
+| 2023&#8209;03 | **BloombergGPT**: A Large Language Model for Finance | Bloomberg | <a href="https://arxiv.org/abs/2303.17564">Link</a> |  |
+| 2023&#8209;02 | **BBT-Fin**: Comprehensive Construction of Chinese Financial Domain Pre-trained Language Model, Corpus and Benchmark | FDU, SuperSymmetry Technologies | <a href="http://arxiv.org/abs/2302.09432">Link</a> |  |

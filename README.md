@@ -84,7 +84,7 @@
 
 ![我是一道分界线](https://github.com/Drur1Lane/Awesome-Large-Language-Model-Research-in-Management-Science/blob/main/Boundary.png)
 
-## 📝 Other Preprints (*Related more to Computer Science*) (2025-07-09: 2️⃣1️⃣papers!)
+## 📝 Other Preprints (*Related more to Computer Science*) (2025-07-12: 2️⃣8️⃣papers!)
 
 ### 🥳 Classics Tech Papers
 |Date|Title|DOI|Sketch|
@@ -95,9 +95,20 @@
 | 2018&#8209;06 | Improving Language Understanding by Generative Pre-Training | [Link](https://openai.com/index/language-unsupervised/) | GPT-1 |
 | 2017&#8209;06 | **Attention Is All You Need** | <a href="https://arxiv.org/abs/1706.03762">Link</a> | ***Transformer*** |
 
+### 💬 Prompt Engineering & Chain-of-Thought
+|Date|Title|DOI|Sketch|
+|:---:|:---|:---|:---|
+| 2023&#8209;12 | Principled Instructions Are All You Need for Questioning LLaMA-1/2, GPT-3.5/4 | [Link](https://doi.org/10.48550/arXiv.2312.16171) | ***26 very practical principles for prompt*** |
+| 2023&#8209;11 | Can Generalist Foundation Models Outcompete Special-Purpose Tuning? Case Study in Medicine | [Link](https://doi.org/10.48550/arXiv.2311.16452) | ***A combination of three prompt techniques (and a good chart)*** |
+| 2023&#8209;03 | Capabilities of GPT-4 on Medical Challenge Problems | [Link](https://doi.org/10.48550/arXiv.2303.13375) |  |
+| 2022&#8209;05 | Large Language Models are Zero-Shot Reasoners (**Zero-shot-CoT**) | [Link](https://doi.org/10.48550/arXiv.2205.11916) | ***Let's think step by step!*** |
+| 2022&#8209;03 | **Self-Consistency** Improves Chain of Thought Reasoning in Language Models | [Link](https://doi.org/10.48550/arXiv.2203.11171) |  |
+| 2022&#8209;01 | **Chain-of-Thought Prompting Elicits Reasoning in Large Language Models** | [Link](https://doi.org/10.48550/arXiv.2201.11903) | ***Proposed CoT*** |
+
 ### 📚 Review / Survey on LLMs
 |Date|Title|DOI|Sketch|
 |:---:|:---|:---|:---|
+| 2024&#8209;06 | The Prompt Report: A Systematic Survey of **Prompt Engineering** Techniques | [Link](https://doi.org/10.48550/arXiv.2406.06608) |  |
 | 2024&#8209;02 | A Systematic Survey of **Prompt Engineering** in Large Language Models: Techniques and Applications | <a href="https://arxiv.org/abs/2402.07927">Link</a> |  |
 | 2023&#8209;09 | A Survey of **Chain of Thought** Reasoning: Advances, Frontiers and Future | <a href="https://arxiv.org/abs/2309.15402">Link</a> |  |
 | 2023&#8209;09 | The Rise and Potential of Large Language Model Based **Agents**: A Survey | <a href="https://arxiv.org/abs/2309.07864">Link</a> |  |

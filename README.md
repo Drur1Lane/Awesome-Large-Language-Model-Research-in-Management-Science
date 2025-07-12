@@ -99,7 +99,7 @@
 |Date|Title|DOI|Sketch|
 |:---:|:---|:---|:---|
 | 2023&#8209;12 | Principled Instructions Are All You Need for Questioning LLaMA-1/2, GPT-3.5/4 | [Link](https://doi.org/10.48550/arXiv.2312.16171) | ***26 very practical principles for prompt*** |
-| 2023&#8209;11 | Can Generalist Foundation Models Outcompete Special-Purpose Tuning? Case Study in Medicine | [Link](https://doi.org/10.48550/arXiv.2311.16452) | ***A combination of three prompt techniques (and a good chart)*** |
+| 2023&#8209;11 | Can Generalist Foundation Models Outcompete Special-Purpose Tuning? Case Study in Medicine | [Link](https://doi.org/10.48550/arXiv.2311.16452) | ***A combination of three prompt techniques (with a good figure)*** |
 | 2023&#8209;03 | Capabilities of GPT-4 on Medical Challenge Problems | [Link](https://doi.org/10.48550/arXiv.2303.13375) |  |
 | 2022&#8209;05 | Large Language Models are Zero-Shot Reasoners (**Zero-shot-CoT**) | [Link](https://doi.org/10.48550/arXiv.2205.11916) | ***Let's think step by step!*** |
 | 2022&#8209;03 | **Self-Consistency** Improves Chain of Thought Reasoning in Language Models | [Link](https://doi.org/10.48550/arXiv.2203.11171) |  |

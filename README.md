@@ -6,7 +6,8 @@
 
 ## 🔍 Highlights (2025-07-07: 3️⃣4️⃣papers!)
 * 🌟 A curated collection of papers about ***large/small language models (LLMs/SLMs)*** (and ***Human-AI Collaboration***) in **management science**
-* ✅ Includes only **peer-reviewed** and **notable preprint** work
+* 🏆 Prioritizes papers from **top journals** (**Nature, Science, PNAS, ABS/AJG 3+, FMS T1**)
+* ✅ Includes only **published** and **notable preprint** work
 * 📚 Categorized by **purpose**:
   * Construction
   * Application
@@ -14,7 +15,6 @@
   * Review / Survey / Instructive
   * Understanding capabilities of LLMs
   * **Human-AI Collaboration** 🔥🔥🔥
-* 🏆 Prioritizes papers from **top journals** (**Nature, Science, PNAS, ABS/AJG 3+, FMS T1**)
 
 ## 🏗️ Construction
 |Date|Title|Journal|DOI|
@@ -84,14 +84,15 @@
 
 ![我是一道分界线](https://github.com/Drur1Lane/Awesome-Large-Language-Model-Research-in-Management-Science/blob/main/Boundary.png)
 
-## 📝 Other Preprints (*Related more to Computer Science*) (2025-07-12: 2️⃣8️⃣papers!)
+## 📝 Other Preprints (*Related more to Computer Science*) (2025-07-12: 2️⃣9️⃣papers!)
 
 ### 🥳 Classics Tech Papers
 |Date|Title|DOI|Sketch|
 |:---:|:---|:---|:---|
 | 2023&#8209;05 | **Language Models are Few-Shot Learners** | <a href="https://arxiv.org/abs/2005.14165">Link</a> | ***GPT-3*** |
+| 2019&#8209;07 | RoBERTa: A Robustly Optimized BERT Pretraining Approach | [Link](https://doi.org/10.48550/arXiv.1907.11692) | RoBERTa |
 | 2019&#8209;05 | Language Models are Unsupervised Multitask Learners | [Link](https://github.com/openai/gpt-2) | GPT-2 |
-| 2018&#8209;10 | **A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future** | <a href="https://arxiv.org/abs/1810.04805">Link</a> | ***BERT*** |
+| 2018&#8209;10 | **BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding** | <a href="https://arxiv.org/abs/1810.04805">Link</a> | ***BERT*** |
 | 2018&#8209;06 | Improving Language Understanding by Generative Pre-Training | [Link](https://openai.com/index/language-unsupervised/) | GPT-1 |
 | 2017&#8209;06 | **Attention Is All You Need** | <a href="https://arxiv.org/abs/1706.03762">Link</a> | ***Transformer*** |
 

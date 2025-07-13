@@ -5,7 +5,7 @@
 </p>
 
 ## 🔍 Highlights (2025-07-07: 3️⃣4️⃣papers!)
-* 🌟 A collection of papers about ***large/small language models (LLMs/SLMs)*** (and ***Human-AI Collaboration***) in **management science**
+* 🌟 A curated collection of papers about ***large/small language models (LLMs/SLMs)*** (and ***Human-AI Collaboration***) in **management science**
 * ✅ Includes only **peer-reviewed** and **notable preprint** work
 * 📚 Categorized by **purpose**:
   * Construction
